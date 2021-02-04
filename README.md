@@ -1,2 +1,3 @@
-# PROYECTOPROBA
- Análisis estadístico para una campaña de vacunación contra el COVID-19
+# PROYECTO PROBABILIDAD Y ESTADÍSTICA CNYN | ALVARADO CUEVAS MÁRQUEZ
+ Análisis estadístico para una campaña de vacunación contra el COVID-19.
+ Dada la situación en la que el mundo se encuentra, la información es la única manera de poder vislumbrar la luz al final del camino, el COVID-19 deja un mar de preguntas sobre la manera de actuar tanto de la gente, como de los gobiernos. Nuestra motivación para realizar este trabajo es averiguar quiénes de nuestros seres queridos o de la misma población mexicana se encuentra en mayor riesgo, para así poder proponer una campaña de vacunación, basándose enteramente en la vulnerabilidad de la población.
